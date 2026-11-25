@@ -497,7 +497,7 @@ For downstream analyses, you should use the final contamination-cleaned FASTA fi
 
 These final assemblies can be used for:
 
-- Gene prediction (such as [GRAIN](https://github.com/KScott6/GRAIN_Pipeline) and functional annotation.
+- Gene prediction (such as [GRAIN](https://github.com/KScott6/GRAIN_Pipeline)) and functional annotation.
 - Phylogenomic analyses (such as [cano.py](https://github.com/KScott6/cano.py)).
 - Comparative genomics
 - Genome database submission (such as [NCBI Genome Database](https://www.ncbi.nlm.nih.gov/datasets/genome/))
