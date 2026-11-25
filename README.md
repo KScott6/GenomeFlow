@@ -506,7 +506,7 @@ Make sure to review the assembly quality and contamination results before procee
 
 <br>
 
-###### I **HIGHLY** recommend submitting your genome assemblies to NCBI and getting them cleared **BEFORE** moving forward with gene prediction, functional annotation, important dissertation/manuscript research, etc.
+#### I **HIGHLY** recommend submitting your genome assemblies to NCBI and getting them cleared **BEFORE** moving forward with gene prediction, functional annotation, important dissertation/manuscript research, etc.
 
 <br>
 
